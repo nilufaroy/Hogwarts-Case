@@ -44,7 +44,9 @@ cd minimal-ai-chat-app
 python3 -m venv venv                
 
 ## 3. Activate the virtual environment
+```bash
 source venv/bin/activate            - it's for mac
+```
 
 ## 4. Install required packages
 pip install -r requirements.txt
