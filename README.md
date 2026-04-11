@@ -51,7 +51,8 @@ source venv/bin/activate            - it's for mac
 ## 4. Install required packages
 pip install -r requirements.txt
 
-## Environment Variables: Create a .env file in the project folder and add your API key like this:
+# Environment Variables: 
+## Create a .env file in the project folder and add your API key like this:
 GROQ_API_KEY=your_api_key_here
  
 # How to Run Locally:
