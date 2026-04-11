@@ -30,7 +30,7 @@ hogwarts-ai-chat/
 ├── README.md
 └── templates/
     └── index.html
-
+```
 
 # How to Install Dependencies
 
