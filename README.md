@@ -35,8 +35,10 @@ hogwarts-ai-chat/
 # How to Install Dependencies
 
 ## 1. Clone the repository
+```bash
 git clone https://github.com/yourusername/minimal-ai-chat-app.git
 cd minimal-ai-chat-app
+```
 
 ## 2. Create a virtual environment
 python3 -m venv venv                
